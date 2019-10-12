@@ -6,6 +6,7 @@ We have built a decentralized expense manager to add/track/manage daily expenses
 ### Setting up the project
 In the project directory run
 ```
+cd src
 npm install
 ```
 ### Starting the application
